@@ -428,8 +428,8 @@ def resample(fre_list, data, k):
             f_y = interpolate.UnivariateSpline(range(0,normalized_length),y,s=0)
             f_z = interpolate.UnivariateSpline(range(0,normalized_length),z,s=0)
 
-            data[j, :, 0] = f_x(np.linspace(0, normalized_length, int(1024/k)))
-            data[j, :, 1] = f_y(np.linspace(0, normalized_length, int(1024/k)))
-            data[j, :, 2] = f_z(np.linspace(0, normalized_length, int(1024/k)))
+            data[j, :, 0] = f_x(np.linspace(0, normalized_length-1, int(1024/k)))
+            data[j, :, 1] = f_y(np.linspace(0, normalized_length-1, int(1024/k)))
+            data[j, :, 2] = f_z(np.linspace(0, normalized_length-1, int(1024/k)))
 
     return data
