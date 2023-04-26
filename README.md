@@ -18,7 +18,7 @@ TensorFlow-gpu >= 2.3
 keras-tuner == 1.1.0  
 sklearn >= 0.24.1
 ### Data and Reproducibility
-- datasets and models can be found here: https://1drv.ms/u/s!Ao2D6nuqQGQ0qSq0uxpsK2wDfQTg?e=WcwgO8
+- datasets and models can be found [here](https://1drv.ms/u/s!Ao2D6nuqQGQ0qSq0uxpsK2wDfQTg?e=WcwgO8)
 - log files can be found in [/result/logs](https://github.com/xzheng93/Age-related_gait_classification/tree/main/result/logs)
 ### Usage
 - to tune the hyperparameters for deep learning models 
