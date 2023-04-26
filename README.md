@@ -20,7 +20,7 @@ sklearn >= 0.24.1
 ### Data and Reproducibility
 - datasets and models can be found here: https://1drv.ms/u/s!Ao2D6nuqQGQ0qSq0uxpsK2wDfQTg?e=WcwgO8
 - log files can be found in [/result/logs](https://github.com/xzheng93/Age-related_gait_classification/tree/main/result/logs)
-### usage
+### Usage
 - to tune the hyperparameters for deep learning models 
 ```
 python /tuning/run_dl_tuning.py ${ARGS}
