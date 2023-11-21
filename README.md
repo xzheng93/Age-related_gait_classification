@@ -5,7 +5,7 @@ This repository contains the python code for comparing performance of deep learn
 
 ```
 @article{zheng2023gait,
-  title={RAge-related Gait Patterns Classification Using Deep Learning Based on Time-series Data from One Accelerometer},
+  title={Age-related Gait Patterns Classification Using Deep Learning Based on Time-series Data from One Accelerometer},
   author={Zheng, Xiaoping and Wilhelm, Elizabeth and Reneman, Michiel F and Otten, Egbert and Lamoth, Claudine JC},
   journal={preprint},
   doi={10.36227/techrxiv.22643314.v1},
