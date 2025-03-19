@@ -1,14 +1,17 @@
 # Age-related Gait Patterns Classification Using Deep Learning Based on Time-series Data from One Accelerometer
 ![ ](https://github.com/xzheng93/Age-related_gait_classification/blob/main/result/model_plots/study%20pipeline.png)  
 
-This repository contains the python code for comparing performance of deep learning and conventional machine learning models in classifying age related gait patterns as presented in [Age-related Gait Patterns Classification Using Deep Learning Based on Time-series Data from One Accelerometer](https://doi.org/10.36227/techrxiv.22643314.v1 ).
+This repository contains the python code for comparing performance of deep learning and conventional machine learning models in classifying age related gait patterns as presented in [Age-related Gait Patterns Classification Using Deep Learning Based on Time-series Data from One Accelerometer](https://doi.org/10.1016/j.bspc.2024.107406).
 
 ```
-@article{zheng2023gait,
-  title={Age-related Gait Patterns Classification Using Deep Learning Based on Time-series Data from One Accelerometer},
-  author={Zheng, Xiaoping and Wilhelm, Elizabeth and Reneman, Michiel F and Otten, Egbert and Lamoth, Claudine JC},
-  journal={preprint},
-  doi={10.36227/techrxiv.22643314.v1},
+@article{zheng2025age,
+  title={Age-related gait patterns classification using deep learning based on time-series data from one accelerometer},
+  author={Zheng, Xiaoping and Wilhelm, Elisabeth and Otten, Egbert and Reneman, Michiel F and Lamoth, Claudine JC},
+  journal={Biomedical Signal Processing and Control},
+  volume={104},
+  pages={107406},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 ## Data, Reproducibility, and Code
